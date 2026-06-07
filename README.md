@@ -52,16 +52,6 @@ Core research themes:
 
 ---
 
-## 📌 Pinned Projects
-
-> *(Pin your best repositories below — especially the RAG system once public)*
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 **Multimodal Medical RAG** | Trustworthy RAG pipeline for clinical decision support | Python · HuggingFace · FastAPI |
-| ⚡ **Async FastAPI Template** | Production-ready async API with SQLAlchemy 2.0 | FastAPI · AsyncPG · Docker |
-
----
 
 ## 📊 GitHub Stats
 
