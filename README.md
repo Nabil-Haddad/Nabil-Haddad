@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 What I'm Working On
+## What I'm Working On
 
 My MSc dissertation focuses on **Trustworthy Multimodal RAG for Medical Decision-Making** — a system that combines retrieval-augmented generation with multimodal inputs (text + imaging) to support clinicians, with explainability and safety at its core.
 
@@ -23,7 +23,7 @@ Core research themes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
  
 **Languages**
  
@@ -57,13 +57,13 @@ Core research themes:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
  
 
-## 🎯 Focus Areas
+## Focus Areas
 
 ```
-🔍  Retrieval-Augmented Generation (RAG)
-🏥  AI for Healthcare & Clinical Support
-🔒  Responsible & Explainable AI
-⚡  Async Backend Systems (FastAPI + SQLAlchemy 2.0)
+Retrieval-Augmented Generation (RAG)
+AI for Healthcare & Clinical Support
+Responsible & Explainable AI
+Async Backend Systems (FastAPI + SQLAlchemy 2.0)
 ```
 
 
