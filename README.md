@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nabil 👋</h1>
+<h1 align="center">Hi, I'm Nabil </h1>
 
 <p align="center">
   <b>MSc Artificial Intelligence · University of Kent</b><br/>
@@ -17,9 +17,9 @@
 My MSc dissertation focuses on **Trustworthy Multimodal RAG for Medical Decision-Making** — a system that combines retrieval-augmented generation with multimodal inputs (text + imaging) to support clinicians, with explainability and safety at its core.
 
 Core research themes:
-- **Trustworthiness** — uncertainty quantification, hallucination mitigation, source attribution
-- **Multimodality** — fusing clinical text with medical imaging in a RAG pipeline
-- **Medical AI** — responsible deployment, regulatory-aware design
+- **Trustworthiness**: uncertainty quantification, hallucination mitigation, source attribution
+- **Multimodality**: fusing clinical text with medical imaging in a RAG pipeline
+- **Medical AI**: responsible deployment, regulatory-aware design
 
 ---
 
