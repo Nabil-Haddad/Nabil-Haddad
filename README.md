@@ -72,5 +72,5 @@ Secure API Design (JWT Authentication, Password Hashing)
 ---
 
 <p align="center">
-  <i>Open to research collaborations and AI/ML roles. Let's build something meaningful.</i>
+  <i>Open to research collaborations and AI/ML roles.</i>
 </p>
